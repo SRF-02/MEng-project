@@ -10,12 +10,15 @@ To be able to properly run the code, a Rhino licence is needed (comes with a 3-m
 
 <div style="text-align: left;">
   <details style="font-size: 18px;">
-    <summary style="font-size: 20px; font-weight: bold;">Iteration files access</summary>
-    
-    ## Additional Information
-    
-    This is some more information that will be revealed when the dropdown is expanded.
-    You can put text, images, or even code snippets here.
+    <summary style="font-size: 25px; font-weight: bold;">Iteration files access</summary>
+    Hello there
+
+</div>
+
+<div style="text-align: left;">
+  <details style="font-size: 18px;">
+    <summary style="font-size: 25px; font-weight: bold;">Connection files access</summary>
+    Hello there
 
 </div>
 
