@@ -8,11 +8,9 @@ Below is a list of plugins need for the grasshopper files to work properly. You 
 
 To be able to properly run the code, a Rhino licence is needed (comes with a 3-month free trial) and an Oasys licence is needed.
 
-Please enjoy playing around with the code and have fun with Grasshopper!!
-
 <div style="text-align: left;">
   <details style="font-size: 18px;">
-    <summary style="font-size: 20px; font-weight: bold;">Click to view more</summary>
+    <summary style="font-size: 20px; font-weight: bold;">Iteration files access</summary>
     
     ## Additional Information
     
@@ -25,3 +23,5 @@ Please enjoy playing around with the code and have fun with Grasshopper!!
 
   </details>
 </div>
+
+Please enjoy playing around with the code and have fun with Grasshopper!!
