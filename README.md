@@ -17,11 +17,6 @@ To be able to properly run the code, a Rhino licence is needed (comes with a 3-m
     This is some more information that will be revealed when the dropdown is expanded.
     You can put text, images, or even code snippets here.
 
-    ```bash
-    echo "Hello, World!"
-    ```
-
-  </details>
 </div>
 
 Please enjoy playing around with the code and have fun with Grasshopper!!
