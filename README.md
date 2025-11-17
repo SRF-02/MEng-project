@@ -9,3 +9,14 @@ Below is a list of plugins need for the grasshopper files to work properly. You 
 To be able to properly run the code, a Rhino licence is needed (comes with a 3-month free trial) and an Oasys licence is needed.
 
 Please enjoy playing around with the code and have fun with Grasshopper!!
+
+<details>
+  <summary>Click to view more</summary>
+  
+  ## Additional Information
+
+  This is some more information that will be revealed when the dropdown is expanded.
+  You can put text, images, or even code snippets here.
+
+  ```bash
+  echo "Hello, World!"
