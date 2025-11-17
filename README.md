@@ -10,13 +10,18 @@ To be able to properly run the code, a Rhino licence is needed (comes with a 3-m
 
 Please enjoy playing around with the code and have fun with Grasshopper!!
 
-<details>
-  <Heading>Click to view more</Heading>
-  
-  ## Additional Information
+<div style="text-align: left;">
+  <details style="font-size: 18px;">
+    <summary style="font-size: 20px; font-weight: bold;">Click to view more</summary>
+    
+    ## Additional Information
+    
+    This is some more information that will be revealed when the dropdown is expanded.
+    You can put text, images, or even code snippets here.
 
-  This is some more information that will be revealed when the dropdown is expanded.
-  You can put text, images, or even code snippets here.
+    ```bash
+    echo "Hello, World!"
+    ```
 
-  ```bash
-  echo "Hello, World!"
+  </details>
+</div>
