@@ -37,26 +37,18 @@ This repository is broken down into two, the **Iteration files** where all the s
 <details>
   <summary style="font-size: 20px; font-weight: bold;">Iteration Files</summary>
 
-Click on any file below to download it automatically:
-
 - Iteration 1
   - [Grashopper File](<https://github.com/SRF-02/MEng-project/raw/refs/heads/main/Iterations/Iteration%201/Iteration_1_Grashopper.gh>)
   - [Oasys Form Finding File](<https://github.com/SRF-02/MEng-project/raw/refs/heads/main/Iterations/Iteration%201/Iteration_1_GSA.gwb>)
 - Iteration 2
-  - [Iteration 03](<raw-file-url>)
-  - [Final Iteration](<raw-file-url>)
+  - [Grashopper File](<https://github.com/SRF-02/MEng-project/raw/refs/heads/main/Iterations/Iteration%202/Iteration_2_Grashopper.gh>)
+  - [Oasys Form Finding File](<https://github.com/SRF-02/MEng-project/raw/refs/heads/main/Iterations/Iteration%202/Iteration_2_GSA.gwb>)
 
 </details>
 
 <details>
   <summary style="font-size: 20px; font-weight: bold;">Connection Files</summary>
-
-Click on any file below to download it automatically:
-
-- [Connection A](<raw-file-url>)
-- [Connection B](<raw-file-url>)
-- [Connection C](<raw-file-url>)
-- [Full Connection Set](<raw-file-url>)
+Hello world
 
 </details>
 
